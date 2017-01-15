@@ -12,7 +12,7 @@ setup(
     licencse="MIT",
     # package_dir={'': 'src'},
     py_modules=["scraper"],
-    install_requires=['beautifulsoup4', 'html5lib', 'requests'],
+    install_requires=['beautifulsoup4', 'html5lib', 'requests', 'geocoder'],
     extras_require={
         "test": ["pytest", "pytest-cov", "tox"]
     }
