@@ -10,3 +10,4 @@
 #Resources used:
 - [Class notes](https://codefellows.github.io/sea-python-401d5/lectures/scraping.html)
 - [Class tutorial](https://codefellows.github.io/sea-python-401d5/assignments/tutorials/scraper.html)
+- [Class tutorial II](https://codefellows.github.io/sea-python-401d5/assignments/tutorials/rest.html)
